@@ -1,0 +1,56 @@
+{
+  "componentType": "home",
+  "count": 2,
+  "componentList": [
+    {
+      "componentType": "categories",
+      "title": "",
+      "categoryList": [
+        {
+          "_serviceCategoryName": "AIR CONDITIONER",
+          "ServiceCategoryID": 129,
+          "ServiceArabicCategoryName": "حمام السباحة",
+          "BackgroundImageUrl": "",
+          "LogoUrl": "https://customerengdev.blob.core.windows.net/alghanim-mobapp-image/AIRCONDITIONERLogoa2437424-1693-4662-b165-98969b3c503909415f5b-e0ff-44e6-9d3e-1d7c5ce5b6313dfa15b0-04e6-494c-a31a-a1063adfd38a.png",
+          "ServiceCategoryOrder": 1,
+          "IsActive": true,
+          "CreatedDate": "\/Date(1578304512907+0200)\/",
+          "ModifiedDate": "\/Date(1590554151070+0300)\/",
+          "BackgroundImageFile": null,
+          "LogoUrlImageFile": null,
+          "HasSubCategory": true,
+          "DefaultSubCategoryId": null,
+          "ServiceCategoryName": "AIR CONDITIONER"
+        },
+        {
+          "_serviceCategoryName": "ELEVATOR",
+          "ServiceCategoryID": 132,
+          "ServiceArabicCategoryName": "testt",
+          "BackgroundImageUrl": "",
+          "LogoUrl": "https://customerengdev.blob.core.windows.net/alghanim-mobapp-image/TESTMANALILogo4452e6c8-eeae-4565-9cdd-570557d33a1d4eea33ca-d4bf-41ae-9116-d82529b981a4.png",
+          "ServiceCategoryOrder": 2,
+          "IsActive": true,
+          "CreatedDate": "\/Date(1579279094160+0200)\/",
+          "ModifiedDate": "\/Date(1592888916587+0300)\/",
+          "BackgroundImageFile": null,
+          "LogoUrlImageFile": null,
+          "HasSubCategory": false,
+          "DefaultSubCategoryId": 163,
+          "ServiceCategoryName": "ELEVATOR"
+        }
+      ]
+    },
+    {
+      "componentType": "recentViews",
+      "title": "History Of Visits",
+      "subList": [
+        {
+         // ***
+        },
+        {
+         // **
+        }
+      ]
+    }
+  ]
+}
