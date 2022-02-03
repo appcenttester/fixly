@@ -1,0 +1,120 @@
+{
+  "message_code": 200,
+  "message": "success",
+  "model": [
+    {
+      "CartDetailsID": 1417,
+      "CartID": 1115,
+      "ServiceCategoryID": 129,
+      "ServiceCategoryName": "AIR CONDITIONER",
+      "ServiceArabicCategoryName": "حمام السباحة",
+      "ServiceSubCategoryID": 160,
+      "ServiceSubCategoryName": "Central AC",
+      "ServiceArabicSubCategoryName": "انقسام AC",
+      "ServiceID": 235,
+      "ContractId": null,
+      "ContractNumber": null,
+      "Note": "",
+      "IsDiscountedPrice": false,
+      "IsExpressPrice": false,
+      "Quantity": 1,
+      "Price": 30.001,
+      "ProductBrandsId": 53,
+      "AddressId": null,
+      "SelectedIssues": [],
+      "ProductName": null,
+      "ProductId": 0,
+      "ExpressPrice": 20.0,
+      "AdvancePrice": 0.0,
+      "AdvancePricePercent": 0.0,
+      "IsAdvancePriceConfigured": false,
+      "SlotId": null,
+      "SlotName": null,
+      "SlotStartTime": null,
+      "SlotEndTime": null,
+      "ScheduleDate": null,
+      "CapacityPlannerId": null,
+      "AllowBooking": false,
+      "Service": {
+        "CartDetailId": 0,
+        "ServiceID": 235,
+        "ServiceName": "Duct Cleaning",
+        "ServiceDescription": null,
+        "ServiceCategoryID": null,
+        "ServiceSubCategoryID": 160,
+        "SAPServiceCategoryId": null,
+        "ServiceArabicName": "حياتنا ",
+        "ServiceArabicDescription": null,
+        "IsActive": true,
+        "ServiceOrder": 1,
+        "IsNotWorking": true,
+        "ProductId": 3,
+        "SpecialNotes": null,
+        "ArabicSpecialNotes": null,
+        "IsExpressService": true,
+        "DynamicIssuesTextBox": null,
+        "ProvidedOnDiscount": false,
+        "ProvidedOnDiscountFrom": null,
+        "ProvidedOnDiscountTo": null,
+        "ProductName": null,
+        "ProductArabicName": null,
+        "CreatedBy": "masteradmin@alghanimtest.onmicrosoft.com",
+        "ModifiedBy": "masteradmin@alghanimtest.onmicrosoft.com",
+        "ShowBrands": true,
+        "IsContractService": false,
+        "ServiceIcon": "https://customerengdev.blob.core.windows.net/customerengdev/DuctCleaning2ee7da67-01ec-4acc-aa9b-8460f518be37.png",
+        "NotWorkingTitle": "Test",
+        "List": null,
+        "DiscountedPrice": 0.0,
+        "IsDiscountedPrice": false,
+        "DiscountValid": null,
+        "DiscountValidFrom": null,
+        "DiscountValidTo": null,
+        "ServiceCode": "CENDC",
+        "ShowQuantity": true,
+        "IsEmergency": false,
+        "ExpressPrice": 20.0,
+        "IsAdvancePayment": false
+      }
+    }
+  ],
+  "totalPrice": 30.001,
+  "totalExpressPrice": 0.0,
+  "addressList": [
+    {
+      "AddressId": 910
+    },
+    {
+      "AddressId": 1177
+    },
+    {
+      "AddressId": 2179
+    },
+    {
+      "AddressId": 2180
+    },
+    {
+      "AddressId": 2209
+    },
+    {
+      "AddressId": 2210
+    },
+    {
+      "AddressId": 2256
+    },
+    {
+      "AddressId": 2258
+    },
+    {
+      "AddressId": 2259
+    },
+    {
+      "AddressId": 2279
+    }
+  ],
+  "ExpressPriceDetails": [],
+  "CartAddressId": 910,
+  "CanAddAddress": true,
+  "TotalAdvancePrice": 0.0,
+  "ServiceAreaExceptionList": []
+}
