@@ -1,0 +1,126 @@
+{
+  "message_code": 200,
+  "message": "",
+  "model": [
+    {
+      "AddressId": 910,
+      "AddressName": "Parents Home",
+      "Area": "Bavdhan",
+      "Block": "3",
+      "Street": "Al-Fabib",
+      "Kasima": "kasima 3",
+      "AddressDisplayText": "Bavdhan, 3, Al-Fabib, kasima 3",
+      "ContractId": null,
+      "ContractTypeDescription": null,
+      "ContractNumber": null
+    },
+    {
+      "AddressId": 1177,
+      "AddressName": "Rental Shop",
+      "Area": "Wakad",
+      "Block": "55867",
+      "Street": "street 2",
+      "Kasima": "kasima 1",
+      "AddressDisplayText": "Wakad, 55867, street 2, kasima 1",
+      "ContractId": null,
+      "ContractTypeDescription": null,
+      "ContractNumber": null
+    },
+    {
+      "AddressId": 2179,
+      "AddressName": "Home 2",
+      "Area": "Bavdhan",
+      "Block": "88888",
+      "Street": "street 4",
+      "Kasima": "kasima 2",
+      "AddressDisplayText": "Bavdhan, 88888, street 4, kasima 2",
+      "ContractId": null,
+      "ContractTypeDescription": null,
+      "ContractNumber": null
+    },
+    {
+      "AddressId": 2180,
+      "AddressName": "Uncle's Chalet",
+      "Area": "Al Jahra",
+      "Block": "321",
+      "Street": "Street1",
+      "Kasima": "456",
+      "AddressDisplayText": "Al Jahra, 321, Street1, 456",
+      "ContractId": null,
+      "ContractTypeDescription": null,
+      "ContractNumber": null
+    },
+    {
+      "AddressId": 2209,
+      "AddressName": "test",
+      "Area": "Wakad",
+      "Block": "44",
+      "Street": "45",
+      "Kasima": "46",
+      "AddressDisplayText": "Wakad, 44, 45, 46",
+      "ContractId": null,
+      "ContractTypeDescription": null,
+      "ContractNumber": null
+    },
+    {
+      "AddressId": 2210,
+      "AddressName": "Godown",
+      "Area": "Kuwait City",
+      "Block": "1",
+      "Street": "Ahmad Al Jaber Street",
+      "Kasima": "K2",
+      "AddressDisplayText": "Kuwait City, 1, Ahmad Al Jaber Street, K2",
+      "ContractId": null,
+      "ContractTypeDescription": null,
+      "ContractNumber": null
+    },
+    {
+      "AddressId": 2256,
+      "AddressName": "test10",
+      "Area": "Farwaniya",
+      "Block": "4",
+      "Street": "5",
+      "Kasima": "6",
+      "AddressDisplayText": "Farwaniya, 4, 5, 6",
+      "ContractId": null,
+      "ContractTypeDescription": null,
+      "ContractNumber": null
+    },
+    {
+      "AddressId": 2258,
+      "AddressName": "Test12",
+      "Area": "Kuwait City",
+      "Block": "1",
+      "Street": "Ahmad Al Jaber Street",
+      "Kasima": "Kas1",
+      "AddressDisplayText": "Kuwait City, 1, Ahmad Al Jaber Street, Kas1",
+      "ContractId": null,
+      "ContractTypeDescription": null,
+      "ContractNumber": null
+    },
+    {
+      "AddressId": 2259,
+      "AddressName": "Scheduling Address",
+      "Area": "Wakad",
+      "Block": "1",
+      "Street": "MG Road",
+      "Kasima": "K2",
+      "AddressDisplayText": "Wakad, 1, MG Road, K2",
+      "ContractId": null,
+      "ContractTypeDescription": null,
+      "ContractNumber": null
+    },
+    {
+      "AddressId": 2279,
+      "AddressName": "Allow Booking Test",
+      "Area": "Adailiya",
+      "Block": "2",
+      "Street": "MG Road",
+      "Kasima": "2",
+      "AddressDisplayText": "Adailiya, 2, MG Road, 2",
+      "ContractId": null,
+      "ContractTypeDescription": null,
+      "ContractNumber": null
+    }
+  ]
+}
