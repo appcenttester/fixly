@@ -1,0 +1,13 @@
+{
+  "message_code": 200,
+  "message": "success",
+  "contractTypeList": [
+    {
+      "ContractCode": "TY10",
+      "ContractDescription": "Special Contracts",
+      "ContractOrder": 4,
+      "PDFUrl": "https://customerengdev.blob.core.windows.net/alghanimcontracttypepdf/TY10.pdf",
+      "Price": null
+    }
+  ]
+}
