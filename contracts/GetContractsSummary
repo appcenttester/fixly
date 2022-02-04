@@ -1,0 +1,11 @@
+{
+  "message_code": 200,
+  "message": "success",
+  "model": {
+    "ActiveContractsCount": 0,
+    "ExpiredContractsCount": 10,
+    "PendingContractRequestsCount": 2,
+    "NewContractRequestsCount": 26,
+    "BlockContractsCount": 2
+  }
+}
