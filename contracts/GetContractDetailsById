@@ -1,0 +1,77 @@
+{
+  "message_code": 200,
+  "message": "success",
+  "contracts": [
+    {
+      "ContractId": 371,
+      "CustomerID": "1001738",
+      "CreatedDate": "\/Date(1332002544000+0200)\/",
+      "CreatedTime": null,
+      "CreatedBy": "AMIT",
+      "Equipment": null,
+      "ContractCode": "TYP6",
+      "ContractDescription": "Silver Contract",
+      "NetValue": null,
+      "Currency": null,
+      "SalesOrgCode": null,
+      "DivisionID": null,
+      "SalesOfficeCode": null,
+      "ValidFrom": "\/Date(1331935200000+0200)\/",
+      "ValidTo": "\/Date(1636495200000+0200)\/",
+      "ContractStatus": "Approved by finance",
+      "AdditionalInfo": null,
+      "ContractNumber": 2200000048,
+      "ProductId": 3,
+      "ProductName": "Split AC",
+      "PDFUrl": "https://customerengdev.blob.core.windows.net/alghanimcontracttypepdf/TYP6.pdf",
+      "EquipmentID": 0,
+      "IsHighestContractType": false,
+      "ContractServices": null,
+      "equipment": null,
+      "Address": [
+        {
+          "AddressId": 1400,
+          "Email": "",
+          "UserId": 965,
+          "AddressName": "My Address",
+          "Area": "003",
+          "AreasName": null,
+          "AreaName": "Abdullah Mubarak(Wes",
+          "Block": "5",
+          "Street": "120",
+          "Kasima": "345",
+          "IsDefault": false,
+          "Venue": null,
+          "Floor": "",
+          "AddressSAPId": "0000024748",
+          "ExtraDirection": null,
+          "ApartmentNumber": "",
+          "BuildingTypeId": null,
+          "BuildingType": "",
+          "BuildingTypeArabicName": "",
+          "PACI": "667665653412",
+          "isCoveredUnderContract": true,
+          "Longitude": null,
+          "Latitude": null,
+          "IsActive": true
+        }
+      ]
+    }
+  ],
+  "contractPaymentInformation": {
+    "TotalContractValue": 100.0,
+    "AmountPaid": 10.425,
+    "DueAmount": 5.123,
+    "RemaningAmount": 15.004,
+    "ContractId": null,
+    "FullAmount": 89.575,
+    "ContractBillingPlans": [
+      {
+        "Date": "\/Date(1331935200000+0200)\/",
+        "Amount": 12.111,
+        "IsPaid": false
+      }
+    ]
+  },
+  "PayemntReceiptDate": null
+}
