@@ -1,0 +1,31 @@
+"Email": "Test.dev14@mailinator.com",
+"AddressId": 910,
+"ContractId": null,
+"CartDetails": [
+{
+"SlotId": null,
+"SlotName": null,
+"ScehduleDate": null,
+"CapacityPlannerId": null,
+"CartDetailsID": 0,
+"CartID": 0,
+"ServiceCategoryID": 132,
+"ServiceSubCategoryID": 163,
+"ServiceID": 241,
+"Note": "",
+"Price": 0.0,
+"IsProvidedAt": false,
+"ProvidedAtPrice": null,
+"IsDiscountedPrice": false,
+"ProductBrandsId": null,
+"IsExpressPrice": false,
+"Quantity": 1,
+"ContractID": null,
+"ContractNumber": null,
+"SlotStartTime": null,
+"SlotEndTime": null,
+"SelectedIssues": [],
+"AdvancePricePercent": 0.0
+}
+],
+"GuestId": ""
