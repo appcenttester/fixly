@@ -1,0 +1,31 @@
+{
+  "Email": "Test.dev14@mailinator.com",
+  "AddressId": 883,
+  "UserId": 965,
+  "AddressName": "My Address 2",
+  "Address": null,
+  "AreaName": null,
+  "Area": null,
+  "BuildingType": "",
+  "BuildingTypeId": null,
+  "BuildingTypeArabicName": "",
+  "Block": "BLK3",
+  "Street": "st2",
+  "Kasima": "hno3",
+  "Venue": "",
+  "Floor": "flr4",
+  "ApartmentNumber": "",
+  "ExtraDirection": "",
+  "PACI": "",
+  "IsCoveredUnderContract": true,
+  "Longitude": 0.0,
+  "Latitude": 0.0,
+  "AddressSAPId": null,
+  "GovernorateId": 1,
+  "GovernorateName": null,
+  "IsActive": true,
+  "Dispatcher": {
+    "IsInvokeRequired": false
+  },
+  "BindingContext": null
+}
