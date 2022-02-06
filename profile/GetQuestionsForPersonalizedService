@@ -1,0 +1,184 @@
+{
+  "message_code": 200,
+  "message": "success",
+  "Userd": 0,
+  "AddressModel": [
+    {
+      "IsAnswered": true,
+      "addressBookModel": {
+        "AddressId": 883,
+        "Email": "",
+        "UserId": 965,
+        "AddressName": "My Address",
+        "Area": "052",
+        "AreasName": null,
+        "AreaName": "Jabriya",
+        "Block": "BLK3",
+        "Street": "st2",
+        "Kasima": "hno3",
+        "Venue": null,
+        "Floor": "flr4",
+        "AddressSAPId": "0000027420",
+        "ExtraDirection": null,
+        "ApartmentNumber": "",
+        "BuildingTypeId": null,
+        "BuildingType": null,
+        "BuildingTypeArabicName": null,
+        "PACI": "",
+        "isCoveredUnderContract": true,
+        "Longitude": null,
+        "Latitude": null,
+        "GovernorateId": null,
+        "GovernorateName": null,
+        "ContractAddressBookModel": null,
+        "IsActive": true
+      }
+    },
+    {
+      "IsAnswered": true,
+      "addressBookModel": {
+        "AddressId": 884,
+        "Email": "",
+        "UserId": 965,
+        "AddressName": "Penthouse",
+        "Area": "052",
+        "AreasName": null,
+        "AreaName": "Jabriya",
+        "Block": "BLK3",
+        "Street": "st2",
+        "Kasima": "hno2",
+        "Venue": null,
+        "Floor": "flr3",
+        "AddressSAPId": "0000027419",
+        "ExtraDirection": null,
+        "ApartmentNumber": "",
+        "BuildingTypeId": null,
+        "BuildingType": null,
+        "BuildingTypeArabicName": null,
+        "PACI": "",
+        "isCoveredUnderContract": true,
+        "Longitude": null,
+        "Latitude": null,
+        "GovernorateId": null,
+        "GovernorateName": null,
+        "ContractAddressBookModel": null,
+        "IsActive": true
+      }
+    }
+  ],
+  "QuestionModel": [
+    {
+      "QuestionId": 1,
+      "Question": "What is the total area of your home?",
+      "QuestionOrder": 1,
+      "Answers": [
+        {
+          "AnswerId": 1,
+          "Answer": "400-500 M2",
+          "QuestionId": 1,
+          "IsSelected": false
+        },
+        {
+          "AnswerId": 2,
+          "Answer": "501-700 M2",
+          "QuestionId": 1,
+          "IsSelected": false
+        },
+        {
+          "AnswerId": 3,
+          "Answer": "700 M2 and Above",
+          "QuestionId": 1,
+          "IsSelected": false
+        }
+      ]
+    },
+    {
+      "QuestionId": 2,
+      "Question": "How many Floors do you have (including basement)?",
+      "QuestionOrder": 2,
+      "Answers": [
+        {
+          "AnswerId": 4,
+          "Answer": "2",
+          "QuestionId": 2,
+          "IsSelected": false
+        },
+        {
+          "AnswerId": 5,
+          "Answer": "3",
+          "QuestionId": 2,
+          "IsSelected": false
+        },
+        {
+          "AnswerId": 6,
+          "Answer": "4 and Above",
+          "QuestionId": 2,
+          "IsSelected": false
+        }
+      ]
+    },
+    {
+      "QuestionId": 3,
+      "Question": "What type of AC do you Have?",
+      "QuestionOrder": 3,
+      "Answers": [
+        {
+          "AnswerId": 7,
+          "Answer": "Central",
+          "QuestionId": 3,
+          "IsSelected": false
+        },
+        {
+          "AnswerId": 8,
+          "Answer": "Split",
+          "QuestionId": 3,
+          "IsSelected": false
+        },
+        {
+          "AnswerId": 9,
+          "Answer": "Combination of both",
+          "QuestionId": 3,
+          "IsSelected": false
+        }
+      ]
+    },
+    {
+      "QuestionId": 4,
+      "Question": "Do you have an ELV?",
+      "QuestionOrder": 4,
+      "Answers": [
+        {
+          "AnswerId": 10,
+          "Answer": "Yes",
+          "QuestionId": 4,
+          "IsSelected": false
+        },
+        {
+          "AnswerId": 11,
+          "Answer": "No",
+          "QuestionId": 4,
+          "IsSelected": false
+        }
+      ]
+    },
+    {
+      "QuestionId": 5,
+      "Question": "Do you have a SP?",
+      "QuestionOrder": 5,
+      "Answers": [
+        {
+          "AnswerId": 12,
+          "Answer": "Yes",
+          "QuestionId": 5,
+          "IsSelected": false
+        },
+        {
+          "AnswerId": 13,
+          "Answer": "No",
+          "QuestionId": 5,
+          "IsSelected": false
+        }
+      ]
+    }
+  ]
+}
