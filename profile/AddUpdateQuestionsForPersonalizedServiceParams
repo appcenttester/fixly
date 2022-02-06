@@ -1,0 +1,34 @@
+{
+  "Answers": [
+    {
+      "UserId": 965,
+      "AddressId": 883,
+      "AnswerId": 2,
+      "QuestionId": 1
+    },
+    {
+      "UserId": 965,
+      "AddressId": 883,
+      "AnswerId": 5,
+      "QuestionId": 2
+    },
+    {
+      "UserId": 965,
+      "AddressId": 883,
+      "AnswerId": 9,
+      "QuestionId": 3
+    },
+    {
+      "UserId": 965,
+      "AddressId": 883,
+      "AnswerId": 10,
+      "QuestionId": 4
+    },
+    {
+      "UserId": 965,
+      "AddressId": 883,
+      "AnswerId": 12,
+      "QuestionId": 5
+    }
+  ]
+}
