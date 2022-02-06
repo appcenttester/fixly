@@ -1,0 +1,31 @@
+{
+  "Email": "Test.dev14@mailinator.com",
+  "AddressId": 0,
+  "UserId": 965,
+  "AddressName": "Kuwait",
+  "Address": null,
+  "AreaName": null,
+  "Area": "101",
+  "BuildingType": "",
+  "BuildingTypeId": 1,
+  "BuildingTypeArabicName": "",
+  "Block": "12",
+  "Street": "Test",
+  "Kasima": "Test",
+  "Venue": "Test",
+  "Floor": "12",
+  "ApartmentNumber": "12d",
+  "ExtraDirection": "Test",
+  "PACI": "12",
+  "IsCoveredUnderContract": false,
+  "Longitude": 0.0,
+  "Latitude": 0.0,
+  "AddressSAPId": null,
+  "GovernorateId": 5,
+  "GovernorateName": null,
+  "IsActive": true,
+  "Dispatcher": {
+    "IsInvokeRequired": false
+  },
+  "BindingContext": null
+}
