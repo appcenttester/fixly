@@ -1,0 +1,26 @@
+{
+  "message_code": 200,
+  "message": "success",
+  "buildingTypes": [
+    {
+      "BuildingTypeId": 1,
+      "BuildingTypeName": "House",
+      "BuildingTypeArabicName": "منزل"
+    },
+    {
+      "BuildingTypeId": 2,
+      "BuildingTypeName": "Chalet",
+      "BuildingTypeArabicName": "الشاليه"
+    },
+    {
+      "BuildingTypeId": 3,
+      "BuildingTypeName": "Farm",
+      "BuildingTypeArabicName": "مزرعة"
+    },
+    {
+      "BuildingTypeId": 4,
+      "BuildingTypeName": "Apartment",
+      "BuildingTypeArabicName": "شقة"
+    }
+  ]
+}
